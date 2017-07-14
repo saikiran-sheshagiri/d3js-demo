@@ -1,0 +1,17 @@
+{
+  "name": "d3js-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --port 4343 --files '.'"
+  },
+  "author": "Saikiran Sheshagiri",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12"
+  }
+}
